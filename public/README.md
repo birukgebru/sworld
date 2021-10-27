@@ -1,2 +1,0 @@
-# sworld
-Stationary World Project 
